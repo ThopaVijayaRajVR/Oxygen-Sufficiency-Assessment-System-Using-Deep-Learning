@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>DJI_0147_JPG.rf.e2e87a3adb20312a579584dfd97f1156.jpg</filename>
+	<path>DJI_0147_JPG.rf.e2e87a3adb20312a579584dfd97f1156.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Devakanchan tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>249</xmax>
+			<ymin>295</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Neem Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>295</xmin>
+			<xmax>458</xmax>
+			<ymin>400</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Neem Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>344</xmin>
+			<xmax>429</xmax>
+			<ymin>178</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

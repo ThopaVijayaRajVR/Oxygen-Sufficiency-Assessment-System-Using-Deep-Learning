@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20231004_103308_jpg.rf.ca92fb5abf9a26fa806eb02647eaeea3.jpg</filename>
+	<path>IMG_20231004_103308_jpg.rf.ca92fb5abf9a26fa806eb02647eaeea3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Devakanchan tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>628</xmax>
+			<ymin>3</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

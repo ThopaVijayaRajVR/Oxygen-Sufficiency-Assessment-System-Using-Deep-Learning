@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WhatsApp-Image-2023-11-03-at-14-06-14_606342cb-Copy_jpg.rf.c1ff9c00cd18fbf6f49c87cc48d88fb8.jpg</filename>
+	<path>WhatsApp-Image-2023-11-03-at-14-06-14_606342cb-Copy_jpg.rf.c1ff9c00cd18fbf6f49c87cc48d88fb8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neem Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>250</xmin>
+			<xmax>547</xmax>
+			<ymin>31</ymin>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/data images/train
+val: /content/drive/MyDrive/data images/test
+nc: 4
+names: ['trees', 'Devakanchan Tree', 'Neem Tree', 'Mango Tree']

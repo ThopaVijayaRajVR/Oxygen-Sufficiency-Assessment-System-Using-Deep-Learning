@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DJI_0184_JPG.rf.ad9e2983586a8d7e3f393d640fead01c.jpg</filename>
+	<path>DJI_0184_JPG.rf.ad9e2983586a8d7e3f393d640fead01c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mango Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>196</xmax>
+			<ymin>17</ymin>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

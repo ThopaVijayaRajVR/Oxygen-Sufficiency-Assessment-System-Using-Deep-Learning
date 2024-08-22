@@ -1,0 +1,37 @@
+<annotation>
+	<folder></folder>
+	<filename>16_png.rf.4edf1f3cbb17deb52b3040354c3bb373.jpg</filename>
+	<path>16_png.rf.4edf1f3cbb17deb52b3040354c3bb373.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>418</xmin>
+			<xmax>463</xmax>
+			<ymin>634</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+		<polygon>
+			<x1>462.463979</x1>
+			<y1>640</y1>
+			<x2>455.211268</x2>
+			<y2>632.768362</y2>
+			<x3>417.151799</x3>
+			<y3>640</y3>
+			<x4>462.463979</x4>
+			<y4>640</y4>
+		</polygon>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20231106_150334_jpg.rf.457e2f788e1491fe9c6d130f679ddbab.jpg</filename>
+	<path>IMG_20231106_150334_jpg.rf.457e2f788e1491fe9c6d130f679ddbab.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neem Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>204</xmin>
+			<xmax>416</xmax>
+			<ymin>44</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Neem Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>134</xmax>
+			<ymin>34</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>
